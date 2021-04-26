@@ -1,3 +1,3 @@
 # webcrawler
 
-simple webcraawler that also finds meta data.
+efficient webcrawler that also finds meta data.
